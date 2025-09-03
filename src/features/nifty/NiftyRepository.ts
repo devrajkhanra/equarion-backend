@@ -27,7 +27,7 @@ export default class NiftyRepository {
       "NSE-Data",
       "data",
       "broad",
-      "nifty50list.csv"
+      "ind_nifty50list.csv"
     );
   }
 
